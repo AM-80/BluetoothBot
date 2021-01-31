@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:4CD7644A
+NODE:I LEVEL:0 LINE:24 "H:\engineer\CodeVisionAVR\inc\mega32a.h"
+NODE:I LEVEL:0 LINE:25 "H:\engineer\CodeVisionAVR\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "H:\engineer\CodeVisionAVR\inc\alcd.h"
+NODE:I LEVEL:0 LINE:28 "H:\engineer\CodeVisionAVR\inc\delay.h"
+NODE:F LEVEL:0 LINE:32 "timer0_ovf_isr(void)"
+NODE:V LEVEL:0 LINE:38 "i -> R5"
+NODE:V LEVEL:0 LINE:38 "a -> R4"
+NODE:V LEVEL:0 LINE:38 "c -> R7"
+NODE:V LEVEL:0 LINE:38 "z -> RAM:????"
+NODE:F LEVEL:0 LINE:43 "main(void)"
